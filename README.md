@@ -6,19 +6,19 @@
 I am a *Logistics* student, who is interested in developing web applications. Currently, I am sharping my front-end skills and working on some projects on my own.
 
 #### Skills: 
-JavaScript
-CSS3
-HTML5
-GIT
-Figma
-Canva
-Gimp
+JavaScript/
+CSS3/
+HTML5/
+GIT/
+Figma/
+Canva/
+Gimp/
 
 #### Things I am planning to learn:
-Node.JS
-React.JS
-Express.JS
-MongoDB
+Node.JS/
+React.JS/
+Express.JS/
+MongoDB/
 
 
 #### Reach me:
