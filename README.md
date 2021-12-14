@@ -1,7 +1,27 @@
-- 👋 Hi, I’m @mateuszNadolny
-- 👀 I’m interested in Web development and e-commerce
-- 🌱 I’m currently learning Web Development technologies such as HTML/CSS, Bootstrap, Javascript, jQuery, React, Node, Express and SQL
-- 💞️ I’m looking to collaborate on open source, web-related projects
-- 📫 How to reach me:
-      mail: mateusznadolny00@gmail.com
+### Hi there 👋, my name is Mateusz
+#### I am an *aspiring* front-end developer
+
+#### About me:
+
+I am a *Logistics* student, who is interested in developing web applications. Currently, I am sharping my front-end skills and working on some projects on my own.
+
+#### Skills: 
+JavaScript
+CSS3
+HTML5
+GIT
+Figma
+Canva
+Gimp
+
+#### Things I am planning to learn:
+Node.JS
+React.JS
+Express.JS
+MongoDB
+
+
+#### Reach me:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mateuszNadolny)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mateusz.nadolny.393)  
 
