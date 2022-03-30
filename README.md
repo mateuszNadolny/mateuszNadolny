@@ -19,6 +19,8 @@ Node.JS/
 React.JS/
 Express.JS/
 MongoDB/
+MUI/
+Next.JS/
 
 
 #### Reach me:
