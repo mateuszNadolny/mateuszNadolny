@@ -14,7 +14,7 @@ Figma/
 Canva/
 Gimp/
 
-#### Things I am planning to learn:
+#### Things I am learning:
 Node.JS/
 React.JS/
 Express.JS/
@@ -27,5 +27,8 @@ Three.js/
 
 #### Reach me:
 
-[<img src='https://img.icons8.com/ios-glyphs/30/ffffff/github.png' alt='github' height='40'>](https://github.com/mateuszNadolny)  [<img src='https://img.icons8.com/ios/50/000000/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/mateusz.nadolny.393/)  
+[<img src='https://img.icons8.com/ios-glyphs/30/ffffff/github.png' alt='github' height='40'>](https://github.com/mateuszNadolny)  
+[<img src='https://img.icons8.com/ios-glyphs/30/ffffff/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/mateusz.nadolny.393/) 
+[<img src='https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/mateusz-nadolny-080a03227/) 
+ 
 
