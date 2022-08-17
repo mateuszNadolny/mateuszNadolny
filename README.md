@@ -3,11 +3,13 @@
 
 #### About me:
 
-I am a *Logistics* student, who is interested in developing web applications. Currently, I am sharping my front-end skills and working on some projects on my own.
+I am a Web Publisher, who is interested in developing web applications. Currently, I am sharping my front-end skills and working on some projects on my own.
 
 #### Skills: 
 JavaScript/
+React.JS/
 CSS3/
+SASS/
 HTML5/
 GIT/
 Figma/
@@ -16,7 +18,7 @@ Gimp/
 
 #### Things I am learning:
 Node.JS/
-React.JS/
+GASP/
 Express.JS/
 MongoDB/
 MUI/
