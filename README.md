@@ -3,27 +3,15 @@
 
 #### About me:
 
-I am a Web Publisher, who is interested in developing web applications. Currently, I am sharping my front-end skills and working on some projects on my own.
+I am a Web Publisher, who is interested in developing web applications.
 
 #### Skills: 
+Next.js/
 JavaScript/
 React.JS/
-CSS3/
+Firebase/
 SASS/
-HTML5/
-GIT/
-Figma/
-Canva/
-Gimp/
-
-#### Things I am learning:
-Node.JS/
-GASP/
-Express.JS/
-MongoDB/
-MUI/
-Next.JS/
-Three.js/
+PrimeReact/
 
 
 
