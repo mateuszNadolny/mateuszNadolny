@@ -1,9 +1,5 @@
 ### Hi there 👋, my name is Mateusz
-#### I am an *aspiring* front-end developer
-
-#### About me:
-
-I am a Web Publisher, who is interested in developing web applications.
+#### I build web applications
 
 #### Skills: 
 Next.js/
