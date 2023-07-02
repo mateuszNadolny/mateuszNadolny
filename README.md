@@ -7,6 +7,8 @@ JavaScript/
 React.JS/
 Firebase/
 SASS/
+Tailwind/
+Primeflex/
 PrimeReact/
 
 
