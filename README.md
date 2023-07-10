@@ -20,7 +20,7 @@
 
 - **Forex Trader Simulator** - fullstack web application designed to provide a realistic trading experience using fictional representations of real-world currencies. Whether you are a budding trader, a seasoned professional seeking a risk-free trading arena, or just curious about the mechanics of forex trading, our platform offers an intuitive and engaging learning opportunity. Check [code repo](https://github.com/mateuszNadolny/forex_trader) and [live page](https://forex-trader-db0aa.web.app/)
 
-- **Medicine Management App** (in progress) - fullstack is a user-friendly application, where frontend is built with Next.js 13. It's designed to help users organize their medications, schedule them, keep track of their expiration dates, and even add family members to manage their medicines. Check [code repo](https://github.com/Medicine-Managmenet-App) and [live page](https://test-mma.vercel.app/)
+- **Medicine Management App** (in progress) - fullstack, user-friendly application, where frontend is built with Next.js 13. It's designed to help users organize their medications, schedule them, keep track of their expiration dates, and even add family members to manage their medicines. Check [code repo](https://github.com/Medicine-Managmenet-App) and [live page](https://test-mma.vercel.app/)
 
 -  **IP Tracker** - web app that can trace location user location and display it on map with IP adress only. User has availability to search for specific IP adress or just display his own info. Check [code repo](https://github.com/mateuszNadolny/ip_tracker) and [live page](https://mateusznadolny.github.io/ip_tracker/)
 
