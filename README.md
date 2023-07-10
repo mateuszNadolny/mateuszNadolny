@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Mateusz Nadolny</h1>
+<h1 align="left">Hi 👋, I'm Mateusz</h1>
 <h3 align="left">I create fullstack web applications</h3>
 
 - 🔭 I’m currently working on [Medication Management App](https://github.com/Medicine-Managmenet-App)
