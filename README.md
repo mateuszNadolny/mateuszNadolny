@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Mateusz</h1>
 <h3 align="left">I create fullstack web applications</h3>
 
-- 🔭 I’m currently working on [Medication Management App](https://github.com/Medicine-Managmenet-App)
+- 🔭 I’m currently working on [Selfspace](https://github.com/mateuszNadolny/selfspace)
 
 - 🌱 I’m currently learning **PostgreSQL & Prisma**
 
@@ -11,18 +11,18 @@
 
 - 📫 You can mail me at mateusznadolny00@gmail.com
 
-- 💬 Ask me about **Next.js, React and Firebase**
+- 💬 Ask me about **Next.js, Tyoescript and Web Dev in general**
 
 - 👯 I’m looking to collaborate on **Next.js fullstack projects**
 
 -----
 <h3 align="left">Check my coolest projects:</h3>
 
+- **Selfspace** (in progress) - Selfspace is a comprehensive fullstack application, designed with care to assist users in nurturing their mind and soul. By harnessing the power of meditation, breathing exercises, focus sessions, serene nature sounds, and reflective journaling, we've curated an experience that seeks to bring tranquility and mindfulness into every user's daily routine. Check [code repo](https://github.com/mateuszNadolny/selfspace) and live page (TBA)
+
 - **Forex Trader Simulator** - fullstack web application designed to provide a realistic trading experience using fictional representations of real-world currencies. Whether you are a budding trader, a seasoned professional seeking a risk-free trading arena, or just curious about the mechanics of forex trading, our platform offers an intuitive and engaging learning opportunity. Check [code repo](https://github.com/mateuszNadolny/forex_trader) and [live page](https://forex-trader-db0aa.web.app/)
 
 - **Medicine Management App** (in progress) - fullstack, user-friendly application, where frontend is built with Next.js 13. It's designed to help users organize their medications, schedule them, keep track of their expiration dates, and even add family members to manage their medicines. Check [code repo](https://github.com/Medicine-Managmenet-App) and [live page](https://test-mma.vercel.app/)
-
--  **IP Tracker** - web app that can trace location user location and display it on map with IP adress only. User has availability to search for specific IP adress or just display his own info. Check [code repo](https://github.com/mateuszNadolny/ip_tracker) and [live page](https://mateusznadolny.github.io/ip_tracker/)
 
 -----
 <h3 align="left">Connect with me:</h3>
