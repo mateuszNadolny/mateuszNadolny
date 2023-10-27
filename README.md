@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on **Next.js fullstack projects**
 
 -----
-<h3 align="left">Check my coolest projects:</h3>
+<h3 align="left">Check my fullstack projects:</h3>
 
 - **Selfspace** (in progress) - Selfspace is a comprehensive fullstack application, designed with care to assist users in nurturing their mind and soul. By harnessing the power of meditation, breathing exercises, focus sessions, serene nature sounds, and reflective journaling, we've curated an experience that seeks to bring tranquility and mindfulness into every user's daily routine. Check [code repo](https://github.com/mateuszNadolny/selfspace) and live page (TBA)
 
