@@ -11,9 +11,9 @@
 
 - 📫 You can mail me at mateusznadolny00@gmail.com
 
-- 💬 Ask me about **Next.js, Tyoescript and Web Dev in general**
+- 💬 Ask me about **Next.js, Typescript and Web Dev in general**
 
-- 👯 I’m looking to collaborate on **Next.js fullstack projects**
+- 👯 I’m looking to collaborate on **Fullstack projects**
 
 -----
 <h3 align="left">Check my fullstack projects:</h3>
