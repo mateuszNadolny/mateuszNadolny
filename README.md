@@ -18,7 +18,7 @@
 -----
 <h3 align="left">Check my fullstack projects:</h3>
 
-- **Selfspace** (in progress) - Selfspace is a comprehensive fullstack application, designed with care to assist users in nurturing their mind and soul. By harnessing the power of meditation, breathing exercises, focus sessions, serene nature sounds, and reflective journaling, we've curated an experience that seeks to bring tranquility and mindfulness into every user's daily routine. Check [code repo](https://github.com/mateuszNadolny/selfspace) and live page (TBA)
+- **Selfspace** (in progress) - Selfspace is a comprehensive fullstack application, designed with care to assist users in nurturing their mind and soul. By harnessing the power of meditation, breathing exercises, focus sessions, serene nature sounds, and reflective journaling, we've curated an experience that seeks to bring tranquility and mindfulness into every user's daily routine. Check [code repo](https://github.com/mateuszNadolny/selfspace) and (live page)[https://selfspace2-lpckw7i0g-mateusznadolny.vercel.app/]
 
 - **Forex Trader Simulator** - fullstack web application designed to provide a realistic trading experience using fictional representations of real-world currencies. Whether you are a budding trader, a seasoned professional seeking a risk-free trading arena, or just curious about the mechanics of forex trading, our platform offers an intuitive and engaging learning opportunity. Check [code repo](https://github.com/mateuszNadolny/forex_trader) and [live page](https://forex-trader-db0aa.web.app/)
 
