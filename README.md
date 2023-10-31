@@ -23,7 +23,7 @@
 - **Forex Trader Simulator** - fullstack web application designed to provide a realistic trading experience using fictional representations of real-world currencies. Whether you are a budding trader, a seasoned professional seeking a risk-free trading arena, or just curious about the mechanics of forex trading, our platform offers an intuitive and engaging learning opportunity. Check [code repo](https://github.com/mateuszNadolny/forex_trader) and [live page](https://forex-trader-db0aa.web.app/)
 IMPORTANT INFO: Currency API that was used to built this project got updated and got rid of its free subscription plan, therefore Forex Trader app may not work as it used to
 
-- **Medicine Management App** (in progress) - fullstack, user-friendly application, where frontend is built with Next.js 13. It's designed to help users organize their medications, schedule them, keep track of their expiration dates, and even add family members to manage their medicines. Check [code repo](https://github.com/Medicine-Managmenet-App) and [live page](https://test-mma.vercel.app/)
+- **Medicine Management App** (in progress) - fullstack, user-friendly application, prepapred for the June edition of Group Projects from "Zaprogramuj Życie" community, where frontend is built with Next.js 13 and backend is built with Java ans Spring Boot. It's designed to help users organize their medications, schedule them, keep track of their expiration dates, and even add family members to manage their medicines. Check [code repo](https://github.com/Medicine-Managmenet-App) and [live page](https://test-mma.vercel.app/)
 
 -----
 <h3 align="left">Connect with me:</h3>
