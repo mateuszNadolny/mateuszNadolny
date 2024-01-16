@@ -25,12 +25,6 @@
 *IMPORTANT INFO: Currency API that was used to built this project got updated and got rid of its free subscription plan, therefore Forex Trader app may not work as it used to*
 
 -----
-<h3 align="left">Connect with me:</h3>
-
-![Static Badge](https://img.shields.io/badge/LINKEDIN-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmateusz-nadolny-web-dev%2F)
-
-
------
 <h3 align="left">Languages and Tools:</h3>
 
 <h4>UI</h4>
