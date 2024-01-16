@@ -27,7 +27,7 @@
 -----
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mateusz-nadolny-web-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusz-nadolny-web-dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mateusz-nadolny-web-dev" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 </p>
 
 -----
