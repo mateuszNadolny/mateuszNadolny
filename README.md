@@ -26,8 +26,60 @@
 
 -----
 <h3 align="left">Connect with me:</h3>
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/LINKEDIN-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmateusz-nadolny-web-dev%2F)
+
 
 -----
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" alt="prisma.io" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="mongoDB" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://primereact.org/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primereact-logo.png" alt="primereacct" width="40" height="40"/> </a> <a href="https://www.primefaces.org/primeflex/" target="_blank" rel="noreferrer"> <img src="https://www.primefaces.org/cdn/primeflex/images/PrimeFlexLogo.svg" alt="primeflex" width="40" height="40"/> </a> <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" alt="primeflex" width="40" height="40"/> </a> <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/10342521?s=280&v=4" alt="chartjs" width="40" height="40"/> </a> </p> <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="framer motion" width="40" height="40"/> </a> </p>
+
+<h4>UI</h4>
+
+![Static Badge](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=HTML5)
+![Static Badge](https://img.shields.io/badge/CSS-orange?style=for-the-badge&logo=CSS3)
+![Static Badge](https://img.shields.io/badge/css%20modules-black?style=for-the-badge&logo=cssmodules&logoColor=white)
+![Static Badge](https://img.shields.io/badge/BOOTSTRAP-purple?style=for-the-badge&logo=bootstrap)
+![Static Badge](https://img.shields.io/badge/SASS-pink?style=for-the-badge&logo=sass)
+![Static Badge](https://img.shields.io/badge/tailwind-grey?style=for-the-badge&logo=tailwindcss)
+![Static Badge](https://img.shields.io/badge/PRIMEFLEX-blue?style=for-the-badge&logo=primefaces)
+![Static Badge](https://img.shields.io/badge/FRAMER%20MOTION-darkpink?style=for-the-badge&logo=framer&color=%23F74BA6)
+![Static Badge](https://img.shields.io/badge/shadcn-black?style=for-the-badge&logo=shadcn)
+![Static Badge](https://img.shields.io/badge/nextUI-black?style=for-the-badge&logo=nextUI)
+![Static Badge](https://img.shields.io/badge/Prime%20react-blue?style=for-the-badge&logo=primereact)
+![Static Badge](https://img.shields.io/badge/chart%20js-grey?style=for-the-badge&logo=chart.js)
+
+
+<h4>Languages and Framewroks</h4>
+
+![Static Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript)
+![Static Badge](https://img.shields.io/badge/typecript-grey?style=for-the-badge&logo=typescript)
+![Static Badge](https://img.shields.io/badge/react%20js-blue?style=for-the-badge&logo=react)
+![Static Badge](https://img.shields.io/badge/next%20js-black?style=for-the-badge&logo=next.js)
+![Static Badge](https://img.shields.io/badge/redux-purple?style=for-the-badge&logo=redux)
+
+<h4>Testing</h4>
+
+![Static Badge](https://img.shields.io/badge/jest-red?style=for-the-badge&logo=jest)
+![Static Badge](https://img.shields.io/badge/react%20testing%20library-red?style=for-the-badge&logo=react)
+![Static Badge](https://img.shields.io/badge/postman-green?style=for-the-badge&logo=postman)
+
+<h4>Database</h4>
+
+![Static Badge](https://img.shields.io/badge/prisma-green?style=for-the-badge&logo=prisma)
+![Static Badge](https://img.shields.io/badge/supabase-grey?style=for-the-badge&logo=supabase)
+![Static Badge](https://img.shields.io/badge/mongodb-grey?style=for-the-badge&logo=mongodb)
+![Static Badge](https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase)
+
+<h4>Other tools</h4>
+
+![Static Badge](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
+![Static Badge](https://img.shields.io/badge/webpack-black?style=for-the-badge&logo=webpack)
+![Static Badge](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)
+
+
+
+
+
+
+
+
