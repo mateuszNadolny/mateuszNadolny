@@ -56,6 +56,8 @@
 ![Static Badge](https://img.shields.io/badge/jest-red?style=for-the-badge&logo=jest)
 ![Static Badge](https://img.shields.io/badge/react%20testing%20library-red?style=for-the-badge&logo=react)
 ![Static Badge](https://img.shields.io/badge/postman-green?style=for-the-badge&logo=postman)
+![Static Badge](https://img.shields.io/badge/msw-red?style=for-the-badge&logo=mswjs)
+
 
 <h4>Database</h4>
 
