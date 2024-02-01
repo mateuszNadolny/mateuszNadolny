@@ -63,7 +63,6 @@
 
 ![Static Badge](https://img.shields.io/badge/prisma-green?style=for-the-badge&logo=prisma)
 ![Static Badge](https://img.shields.io/badge/supabase-grey?style=for-the-badge&logo=supabase)
-![Static Badge](https://img.shields.io/badge/mongodb-grey?style=for-the-badge&logo=mongodb)
 ![Static Badge](https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase)
 
 <h4>Other tools</h4>
