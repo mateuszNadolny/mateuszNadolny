@@ -20,7 +20,7 @@
 
 - **Selfspace** - Selfspace is a comprehensive fullstack application, designed with care to assist users in nurturing their mind and soul. By harnessing the power of meditation, breathing exercises, focus sessions, serene nature sounds, and reflective journaling, we've curated an experience that seeks to bring tranquility and mindfulness into every user's daily routine. Check [code repo](https://github.com/mateuszNadolny/selfspace) and [live page](https://selfspace.vercel.app/)
 
-- **Threads clone** - A fullstack clone of Threads - an online social media and social networking service operated by Meta Platforms. The app offers users the ability to post and share text, images, and videos, as well as interact with other users' posts through replies, reposts, and likes. Check [code repo](https://github.com/mateuszNadolny/threads_clone) and live page (TBA)
+- **Threads clone** - A fullstack clone of Threads - an online social media and social networking service operated by Meta Platforms. The app offers users the ability to post and share text, images, and videos, as well as interact with other users' posts through replies, reposts, and likes. Check [code repo](https://github.com/mateuszNadolny/threads_clone) and [live page](https://notthreads.vercel.app/)
 
 *IMPORTANT INFO: Currency API that was used to built this project got updated and got rid of its free subscription plan, therefore Forex Trader app may not work as it used to*
 
