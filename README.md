@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Threads clone](https://github.com/mateuszNadolny/threads_clone)
 
-- 🌱 I’m currently learning **Testing**
-
 - 📄 Know about my experiences by checking my [LinkedIn account](https://www.linkedin.com/in/mateusz-nadolny-080a03227/)
 
 - 👨‍💻 All of my projects are available at [my github account](https://github.com/mateuszNadolny)
@@ -19,11 +17,10 @@
 <h3 align="left">Check my fullstack projects:</h3>
 
 - **Selfspace** - Selfspace is a comprehensive fullstack application, designed with care to assist users in nurturing their mind and soul. By harnessing the power of meditation, breathing exercises, focus sessions, serene nature sounds, and reflective journaling, we've curated an experience that seeks to bring tranquility and mindfulness into every user's daily routine. Check [code repo](https://github.com/mateuszNadolny/selfspace) and [live page](https://selfspace.vercel.app/)
+  
+- **Chatter** - Chatter is a full-stack chatting app with modern UI that allows users to communicate with each other through individual and group conversations, similar to popular messaging platforms like WhatsApp and Messenger. With Chatter, users can easily connect with friends, family, and colleagues, sharing messages, photos, and more in a secure and user-friendly environment. Check [code repo](https://github.com/mateuszNadolny/chatter) and [live page](TBA)
 
-- **Threads clone** - A fullstack clone of Threads - an online social media and social networking service operated by Meta Platforms. The app offers users the ability to post and share text, images, and videos, as well as interact with other users' posts through replies, reposts, and likes. Check [code repo](https://github.com/mateuszNadolny/threads_clone) and [live page](https://notthreads.vercel.app/)
-
-*IMPORTANT INFO: Currency API that was used to built this project got updated and got rid of its free subscription plan, therefore Forex Trader app may not work as it used to*
-
+- **Threads clone** _(in progress)_ - A fullstack clone of Threads - an online social media and social networking service operated by Meta Platforms. The app offers users the ability to post and share text, images, and videos, as well as interact with other users' posts through replies, reposts, and likes. Check [code repo](https://github.com/mateuszNadolny/threads_clone) and [live page](https://notthreads.vercel.app/)
 -----
 <h3 align="left">Languages and Tools:</h3>
 
@@ -64,6 +61,8 @@
 ![Static Badge](https://img.shields.io/badge/prisma-green?style=for-the-badge&logo=prisma)
 ![Static Badge](https://img.shields.io/badge/supabase-grey?style=for-the-badge&logo=supabase)
 ![Static Badge](https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase)
+![Static Badge](https://img.shields.io/badge/mongodb-green?style=for-the-badge&logo=mongodb)
+
 
 <h4>Other tools</h4>
 
