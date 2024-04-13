@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Mateusz</h1>
 <h3 align="left">I create fullstack web applications</h3>
 
-- 🔭 I’m currently working on [Threads clone](https://github.com/mateuszNadolny/threads_clone)
-
 - 📄 Know about my experiences by checking my [LinkedIn account](https://www.linkedin.com/in/mateusz-nadolny-080a03227/)
 
 - 👨‍💻 All of my projects are available at [my github account](https://github.com/mateuszNadolny)
