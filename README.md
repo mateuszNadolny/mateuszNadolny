@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [my github account](https://github.com/mateuszNadolny)
 
-- 📫 You can mail me at mateusznadolny00@gmail.com
+- 📫 You can contact me via [LinkedIn account](https://www.linkedin.com/in/mateusz-nadolny-080a03227/)
 
 - 💬 Ask me about **Next.js, Typescript and Web Dev in general**
 
