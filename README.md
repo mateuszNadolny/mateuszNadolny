@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Mateusz</h1>
 <h3 align="left">I create fullstack web applications</h3>
 
-- 🌐 Check my website [mnadolny.con](mnadolny.com)
+- 🌐 Check my website [mnadolny.com](https://www.mnadolny.com/)
 
 - 📄 Know about my experiences by checking my [LinkedIn account](https://www.linkedin.com/in/mateusz-nadolny-080a03227/)
 
