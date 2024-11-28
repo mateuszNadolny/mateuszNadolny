@@ -16,11 +16,11 @@
 -----
 <h3 align="left">Check my fullstack projects:</h3>
 
+- **Form Speedrunner** - Form Speedrunner is a fast-paced web game where users have to race against the clock to complete and submit forms as quickly as possible. Users can challenge themselves and others by climbing the leaderboards, tracking their stats, and viewing competitor profiles. Create an account to showcase their high scores, compete in global rankings, and refine their speedrunning skills. Check [code repo](https://github.com/mateuszNadolny/form-speedrun) and [live page](https://www.form-speedrunner.com/)
+
 - **Selfspace** - Selfspace is a comprehensive fullstack application, designed with care to assist users in nurturing their mind and soul. By harnessing the power of meditation, breathing exercises, focus sessions, serene nature sounds, and reflective journaling, we've curated an experience that seeks to bring tranquility and mindfulness into every user's daily routine. Check [code repo](https://github.com/mateuszNadolny/selfspace) and [live page](https://selfspace.vercel.app/)
   
 - **Chatter** - Chatter is a full-stack chatting app with modern UI that allows users to communicate with each other through individual and group conversations, similar to popular messaging platforms like WhatsApp and Messenger. With Chatter, users can easily connect with friends, family, and colleagues, sharing messages, photos, and more in a secure and user-friendly environment. Check [code repo](https://github.com/mateuszNadolny/chatter) and [live page](https://chatter-connect.vercel.app/)
-
-- **Threads clone** _(in progress)_ - A fullstack clone of Threads - an online social media and social networking service operated by Meta Platforms. The app offers users the ability to post and share text, images, and videos, as well as interact with other users' posts through replies, reposts, and likes. Check [code repo](https://github.com/mateuszNadolny/threads_clone) and [live page](https://notthreads.vercel.app/)
 -----
 <h3 align="left">Languages and Tools:</h3>
 
